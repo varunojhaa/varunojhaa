@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://www.buymeacoffee.com/varunojhaa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/varunojhaa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" font="Bree" width="174"></a>
 <!--
 **varunojhaa/varunojhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
