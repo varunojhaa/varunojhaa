@@ -1,6 +1,5 @@
 ### Hi there 👋
-s
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="varunojhaa" data-color="#FFDD00" data-emoji="☕"  data-font="Bree" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<a href="https://www.buymeacoffee.com/varunojhaa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <!--
 **varunojhaa/varunojhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
